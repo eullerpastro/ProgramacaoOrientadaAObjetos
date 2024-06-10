@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\bin\Debug\net8.0\ExercicioDoisClasse.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\bin\Debug\net8.0\ExercicioDoisClasse.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\bin\Debug\net8.0\ExercicioDoisClasse.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\bin\Debug\net8.0\ExercicioDoisClasse.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\bin\Debug\net8.0\ExercicioDoisClasse.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ExercicioDoisClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ExercicioDoisClasse.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ExercicioDoisClasse.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ExercicioDoisClasse.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ExercicioDoisClasse.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ExercicioDoisClasse.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\refint\ExercicioDoisClasse.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ExercicioDoisClasse.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ExercicioDoisClasse.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioDoisClasse\ExercicioDoisClasse\obj\Debug\net8.0\ref\ExercicioDoisClasse.dll
