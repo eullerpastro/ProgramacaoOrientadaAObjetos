@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\bin\Debug\net8.0\FilmesPreferidos.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\bin\Debug\net8.0\FilmesPreferidos.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\bin\Debug\net8.0\FilmesPreferidos.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\bin\Debug\net8.0\FilmesPreferidos.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\bin\Debug\net8.0\FilmesPreferidos.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\FilmesPreferidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\FilmesPreferidos.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\FilmesPreferidos.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\FilmesPreferidos.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\FilmesPreferidos.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\FilmesPreferidos.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\refint\FilmesPreferidos.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\FilmesPreferidos.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\FilmesPreferidos.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\FilmesPreferidos\FilmesPreferidos\obj\Debug\net8.0\ref\FilmesPreferidos.dll
