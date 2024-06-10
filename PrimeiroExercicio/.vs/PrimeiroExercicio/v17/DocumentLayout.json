@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E872E669-0E1A-4702-8A3F-740D42F3FDD4}|PrimeiroExercicio\\PrimeiroExercicio.csproj|c:\\repo\\programacaoorientadaaobjetos\\primeiroexercicio\\primeiroexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E872E669-0E1A-4702-8A3F-740D42F3FDD4}|PrimeiroExercicio\\PrimeiroExercicio.csproj|solutionrelative:primeiroexercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E872E669-0E1A-4702-8A3F-740D42F3FDD4}|PrimeiroExercicio\\PrimeiroExercicio.csproj|c:\\repo\\programacaoorientadaaobjetos\\primeiroexercicio\\primeiroexercicio\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E872E669-0E1A-4702-8A3F-740D42F3FDD4}|PrimeiroExercicio\\PrimeiroExercicio.csproj|solutionrelative:primeiroexercicio\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\PrimeiroExercicio\\PrimeiroExercicio\\Triangulo.cs",
+              "RelativeDocumentMoniker": "PrimeiroExercicio\\Triangulo.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\PrimeiroExercicio\\PrimeiroExercicio\\Triangulo.cs",
+              "RelativeToolTip": "PrimeiroExercicio\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:54:24.283Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "PrimeiroExercicio\\Program.cs",
               "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\PrimeiroExercicio\\PrimeiroExercicio\\Program.cs",
               "RelativeToolTip": "PrimeiroExercicio\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T03:37:34.846Z",
               "EditorCaption": ""
