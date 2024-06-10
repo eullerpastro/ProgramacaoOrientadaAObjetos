@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\bin\Debug\net8.0\ExercicioUmClasse.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\bin\Debug\net8.0\ExercicioUmClasse.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\bin\Debug\net8.0\ExercicioUmClasse.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\bin\Debug\net8.0\ExercicioUmClasse.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\bin\Debug\net8.0\ExercicioUmClasse.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ExercicioUmClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ExercicioUmClasse.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ExercicioUmClasse.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ExercicioUmClasse.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ExercicioUmClasse.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ExercicioUmClasse.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\refint\ExercicioUmClasse.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ExercicioUmClasse.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ExercicioUmClasse.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ExercicioUmClasse\ExercicioUmClasse\obj\Debug\net8.0\ref\ExercicioUmClasse.dll
