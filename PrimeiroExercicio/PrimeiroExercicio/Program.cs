@@ -21,11 +21,8 @@ namespace PrimeiroExercicio
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areax = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-            p = (y.A + y.B + y.C) / 2.0;
-            double areay = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areax = x.Area();
+            double areay = y.Area();
 
             Console.WriteLine("Area de x = " + areax.ToString("F4"));
             Console.WriteLine("Area de y = " + areay.ToString("F4"));
