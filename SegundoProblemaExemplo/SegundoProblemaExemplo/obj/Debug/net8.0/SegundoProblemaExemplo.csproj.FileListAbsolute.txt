@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\refint\SegundoProblemaExemplo.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\ref\SegundoProblemaExemplo.dll
