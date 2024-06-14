@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\FuncionariosDaNewCapacitacao\\FuncionariosDaNewCapacitacao\\FuncionariosDaNewCapacitacao.csproj",
-      "projectName": "FuncionariosDaNewCapacitacao",
-      "projectPath": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\FuncionariosDaNewCapacitacao\\FuncionariosDaNewCapacitacao\\FuncionariosDaNewCapacitacao.csproj",
+      "projectUniqueName": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\TesteNew\\TesteNew\\TesteNew.csproj",
+      "projectName": "TesteNew",
+      "projectPath": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\TesteNew\\TesteNew\\TesteNew.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\FuncionariosDaNewCapacitacao\\FuncionariosDaNewCapacitacao\\obj\\",
+      "outputPath": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\TesteNew\\TesteNew\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
