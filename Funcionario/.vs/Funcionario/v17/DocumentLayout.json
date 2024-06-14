@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Funcionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E46910AB-74D7-40FA-8BFB-A4976C9B8DD8}|Funcionario\\Funcionario.csproj|c:\\repo\\programacaoorientadaaobjetos\\funcionario\\funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46910AB-74D7-40FA-8BFB-A4976C9B8DD8}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46910AB-74D7-40FA-8BFB-A4976C9B8DD8}|Funcionario\\Funcionario.csproj|c:\\repo\\programacaoorientadaaobjetos\\funcionario\\funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46910AB-74D7-40FA-8BFB-A4976C9B8DD8}|Funcionario\\Funcionario.csproj|solutionrelative:funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Funcionario\\Funcionario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Funcionario.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Funcionario\\Funcionario\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario\\Funcionario.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:49:22.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Funcionario\\Funcionario\\Program.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Program.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Funcionario\\Funcionario\\Program.cs",
+              "RelativeToolTip": "Funcionario\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:48:36.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

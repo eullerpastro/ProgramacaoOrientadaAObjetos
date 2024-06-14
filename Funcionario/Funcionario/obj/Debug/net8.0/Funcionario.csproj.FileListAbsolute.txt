@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\bin\Debug\net8.0\Funcionario.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\bin\Debug\net8.0\Funcionario.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\bin\Debug\net8.0\Funcionario.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\bin\Debug\net8.0\Funcionario.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\bin\Debug\net8.0\Funcionario.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\Funcionario.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\Funcionario.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\Funcionario.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\Funcionario.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\refint\Funcionario.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\Funcionario.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\Funcionario.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Funcionario\Funcionario\obj\Debug\net8.0\ref\Funcionario.dll
