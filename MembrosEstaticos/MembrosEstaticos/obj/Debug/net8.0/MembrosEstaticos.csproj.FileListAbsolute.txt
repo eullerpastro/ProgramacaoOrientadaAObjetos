@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\refint\MembrosEstaticos.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll
