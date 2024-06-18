@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Construtores\Construtores\obj\Debug\net8.0\ref\Construtores.dll
