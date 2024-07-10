@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\bin\Debug\net8.0\NullebleDois.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\bin\Debug\net8.0\NullebleDois.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\bin\Debug\net8.0\NullebleDois.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\bin\Debug\net8.0\NullebleDois.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\bin\Debug\net8.0\NullebleDois.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\NullebleDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\NullebleDois.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\NullebleDois.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\NullebleDois.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\NullebleDois.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\NullebleDois.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\refint\NullebleDois.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\NullebleDois.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\NullebleDois.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\NullebleDois\NullebleDois\obj\Debug\net8.0\ref\NullebleDois.dll

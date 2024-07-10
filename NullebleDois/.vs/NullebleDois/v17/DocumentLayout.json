@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\NullebleDois\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633D32BA-208A-4464-A3D9-EA9850B99139}|NullebleDois\\NullebleDois.csproj|c:\\repo\\programacaoorientadaaobjetos\\nullebledois\\nullebledois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633D32BA-208A-4464-A3D9-EA9850B99139}|NullebleDois\\NullebleDois.csproj|solutionrelative:nullebledois\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\NullebleDois\\NullebleDois\\Program.cs",
+              "RelativeDocumentMoniker": "NullebleDois\\Program.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\NullebleDois\\NullebleDois\\Program.cs",
+              "RelativeToolTip": "NullebleDois\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:50:42.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
