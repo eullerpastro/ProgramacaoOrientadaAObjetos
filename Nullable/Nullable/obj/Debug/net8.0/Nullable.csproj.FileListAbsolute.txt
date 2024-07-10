@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\bin\Debug\net8.0\Nullable.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\bin\Debug\net8.0\Nullable.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\bin\Debug\net8.0\Nullable.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\bin\Debug\net8.0\Nullable.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\bin\Debug\net8.0\Nullable.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\Nullable.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\Nullable.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\refint\Nullable.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\Nullable.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\Nullable.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Nullable\Nullable\obj\Debug\net8.0\ref\Nullable.dll
