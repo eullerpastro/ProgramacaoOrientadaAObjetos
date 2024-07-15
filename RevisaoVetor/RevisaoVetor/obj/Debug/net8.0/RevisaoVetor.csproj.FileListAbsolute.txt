@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\bin\Debug\net8.0\RevisaoVetor.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\bin\Debug\net8.0\RevisaoVetor.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\bin\Debug\net8.0\RevisaoVetor.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\bin\Debug\net8.0\RevisaoVetor.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\bin\Debug\net8.0\RevisaoVetor.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\RevisaoVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\RevisaoVetor.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\RevisaoVetor.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\RevisaoVetor.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\RevisaoVetor.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\RevisaoVetor.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\refint\RevisaoVetor.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\RevisaoVetor.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\RevisaoVetor.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoVetor\RevisaoVetor\obj\Debug\net8.0\ref\RevisaoVetor.dll
