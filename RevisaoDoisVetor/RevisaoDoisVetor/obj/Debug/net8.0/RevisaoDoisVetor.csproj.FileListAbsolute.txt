@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\bin\Debug\net8.0\RevisaoDoisVetor.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\bin\Debug\net8.0\RevisaoDoisVetor.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\bin\Debug\net8.0\RevisaoDoisVetor.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\bin\Debug\net8.0\RevisaoDoisVetor.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\bin\Debug\net8.0\RevisaoDoisVetor.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\RevisaoDoisVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\RevisaoDoisVetor.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\RevisaoDoisVetor.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\RevisaoDoisVetor.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\RevisaoDoisVetor.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\RevisaoDoisVetor.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\refint\RevisaoDoisVetor.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\RevisaoDoisVetor.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\RevisaoDoisVetor.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RevisaoDoisVetor\RevisaoDoisVetor\obj\Debug\net8.0\ref\RevisaoDoisVetor.dll

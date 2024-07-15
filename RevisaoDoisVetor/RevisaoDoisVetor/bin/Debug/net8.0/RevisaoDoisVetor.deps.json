@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RevisaoDoisVetor/1.0.0": {
+        "runtime": {
+          "RevisaoDoisVetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RevisaoDoisVetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
