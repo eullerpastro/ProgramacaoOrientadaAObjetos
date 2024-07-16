@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\bin\Debug\net8.0\Paramans.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\bin\Debug\net8.0\Paramans.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\bin\Debug\net8.0\Paramans.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\bin\Debug\net8.0\Paramans.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\bin\Debug\net8.0\Paramans.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\Paramans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\Paramans.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\Paramans.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\Paramans.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\Paramans.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\Paramans.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\refint\Paramans.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\Paramans.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\Paramans.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Paramans\Paramans\obj\Debug\net8.0\ref\Paramans.dll
