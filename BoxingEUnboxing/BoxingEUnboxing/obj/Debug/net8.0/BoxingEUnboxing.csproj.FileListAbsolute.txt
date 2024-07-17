@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\net8.0\BoxingEUnboxing.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\net8.0\BoxingEUnboxing.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\net8.0\BoxingEUnboxing.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\net8.0\BoxingEUnboxing.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\bin\Debug\net8.0\BoxingEUnboxing.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\BoxingEUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\BoxingEUnboxing.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\BoxingEUnboxing.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\BoxingEUnboxing.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\BoxingEUnboxing.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\BoxingEUnboxing.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\refint\BoxingEUnboxing.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\BoxingEUnboxing.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\BoxingEUnboxing.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\BoxingEUnboxing\BoxingEUnboxing\obj\Debug\net8.0\ref\BoxingEUnboxing.dll
