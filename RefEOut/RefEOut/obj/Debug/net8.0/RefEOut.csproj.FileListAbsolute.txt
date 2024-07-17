@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\bin\Debug\net8.0\RefEOut.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\bin\Debug\net8.0\RefEOut.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\bin\Debug\net8.0\RefEOut.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\bin\Debug\net8.0\RefEOut.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\bin\Debug\net8.0\RefEOut.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\RefEOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\RefEOut.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\RefEOut.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\RefEOut.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\RefEOut.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\RefEOut.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\refint\RefEOut.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\RefEOut.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\RefEOut.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\RefEOut\RefEOut\obj\Debug\net8.0\ref\RefEOut.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\RefEOut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109ABA9A-5715-4948-B52C-6167AEC4B2E3}|RefEOut\\RefEOut.csproj|c:\\repo\\programacaoorientadaaobjetos\\refeout\\refeout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109ABA9A-5715-4948-B52C-6167AEC4B2E3}|RefEOut\\RefEOut.csproj|solutionrelative:refeout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109ABA9A-5715-4948-B52C-6167AEC4B2E3}|RefEOut\\RefEOut.csproj|c:\\repo\\programacaoorientadaaobjetos\\refeout\\refeout\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109ABA9A-5715-4948-B52C-6167AEC4B2E3}|RefEOut\\RefEOut.csproj|solutionrelative:refeout\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\RefEOut\\RefEOut\\Calculator.cs",
+              "RelativeDocumentMoniker": "RefEOut\\Calculator.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\RefEOut\\RefEOut\\Calculator.cs",
+              "RelativeToolTip": "RefEOut\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:10:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\RefEOut\\RefEOut\\Program.cs",
+              "RelativeDocumentMoniker": "RefEOut\\Program.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\RefEOut\\RefEOut\\Program.cs",
+              "RelativeToolTip": "RefEOut\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:07:49.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
