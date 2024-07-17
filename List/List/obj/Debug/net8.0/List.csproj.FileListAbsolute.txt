@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\bin\Debug\net8.0\List.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\bin\Debug\net8.0\List.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\bin\Debug\net8.0\List.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\bin\Debug\net8.0\List.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\bin\Debug\net8.0\List.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\List.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\List.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\refint\List.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\List.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\List\List\obj\Debug\net8.0\ref\List.dll
