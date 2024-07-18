@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\bin\Debug\net8.0\ListDois.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\bin\Debug\net8.0\ListDois.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\bin\Debug\net8.0\ListDois.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\bin\Debug\net8.0\ListDois.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\bin\Debug\net8.0\ListDois.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ListDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ListDois.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ListDois.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ListDois.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ListDois.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ListDois.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\refint\ListDois.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ListDois.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ListDois.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\ListDois\ListDois\obj\Debug\net8.0\ref\ListDois.dll
