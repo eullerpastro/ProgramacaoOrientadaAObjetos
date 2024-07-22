@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\bin\Debug\net8.0\MatrizesFixacao.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\bin\Debug\net8.0\MatrizesFixacao.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\bin\Debug\net8.0\MatrizesFixacao.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\bin\Debug\net8.0\MatrizesFixacao.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\bin\Debug\net8.0\MatrizesFixacao.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\MatrizesFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\MatrizesFixacao.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\MatrizesFixacao.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\MatrizesFixacao.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\MatrizesFixacao.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\MatrizesFixacao.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\refint\MatrizesFixacao.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\MatrizesFixacao.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\MatrizesFixacao.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\MatrizesFixacao\MatrizesFixacao\obj\Debug\net8.0\ref\MatrizesFixacao.dll
