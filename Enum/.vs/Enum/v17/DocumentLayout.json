@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51040EA-56FA-4178-B25A-789FC4E0FF89}|Enum\\Enum.csproj|c:\\repo\\programacaoorientadaaobjetos\\enum\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51040EA-56FA-4178-B25A-789FC4E0FF89}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51040EA-56FA-4178-B25A-789FC4E0FF89}|Enum\\Enum.csproj|c:\\repo\\programacaoorientadaaobjetos\\enum\\enum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51040EA-56FA-4178-B25A-789FC4E0FF89}|Enum\\Enum.csproj|solutionrelative:enum\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51040EA-56FA-4178-B25A-789FC4E0FF89}|Enum\\Enum.csproj|c:\\repo\\programacaoorientadaaobjetos\\enum\\enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51040EA-56FA-4178-B25A-789FC4E0FF89}|Enum\\Enum.csproj|solutionrelative:enum\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Enum\\Enum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enum\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Enum\\Enum\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Enum\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:31:00.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Enum\\Enum\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Enum\\Entities\\Order.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Enum\\Enum\\Entities\\Order.cs",
+              "RelativeToolTip": "Enum\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:27:03.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Enum\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "C:\\Repo\\ProgramacaoOrientadaAObjetos\\Enum\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:18:31.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\bin\Debug\net8.0\Enum.exe
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\bin\Debug\net8.0\Enum.deps.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\bin\Debug\net8.0\Enum.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\bin\Debug\net8.0\Enum.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\Enum.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\refint\Enum.dll
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\Enum.pdb
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+C:\Repo\ProgramacaoOrientadaAObjetos\Enum\Enum\obj\Debug\net8.0\ref\Enum.dll
